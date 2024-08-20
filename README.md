@@ -1,6 +1,5 @@
 <div style="display: flex;">
       <h1 align="center">🤙 Hello there 🤙</h1>
-      ![enjoy](https://github.com/user-attachments/assets/7b4b04f4-e51e-450b-9fa0-db7e312df4bb)
 </div>
 <!--
 **Hiiroshige/Hiiroshige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
